@@ -17,10 +17,10 @@ A Flutter app to **generate** and **scan** QR codes using a simple and clean UI.
 ## 📸 Screenshots
 
 #### 🏠 Home Screen
-![Home Screen](https://github.com/Muhammad-Umair-Gujjar/flutter_qr_genScan/blob/master/home_Qr.jpg?raw=true)
+![Home Screen](https://github.com/Muhammad-Umair-Gujjar/flutter_qr_genScan/blob/main/home_Qr.jpg )
 
 #### 🧾 Generate QR Code Screen
-![Generate QR](https://github.com/Muhammad-Umair-Gujjar/flutter_qr_genScan/blob/master/genrate_qr.jpg?raw=true)
+![Generate QR](https://github.com/Muhammad-Umair-Gujjar/flutter_qr_genScan/blob/main/genrate_qr.jpg)
 
 ---
 
