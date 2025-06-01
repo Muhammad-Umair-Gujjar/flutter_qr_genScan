@@ -1,21 +1,34 @@
-<<<<<<< HEAD
-# qr_code_scanner
+# 📱 QR Genscan
 
-A new Flutter project.
+A Flutter app to **generate** and **scan** QR codes using a simple and clean UI.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 📷 Scan QR codes using the device camera  
+- 🔲 Generate QR codes from custom text input  
+- 🧾 Copy or share generated QR codes  
+- 💡 Simple, responsive, and minimal UI  
+- 🌓 Dark mode support (if implemented)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# flutter_qr_genScan
-A Flutter app to generate and scan QR codes using a simple and clean UI.
->>>>>>> ff6bf365b9036808ea580ae21473bd5471b80964
+## 📸 Screenshots
+
+#### 🏠 Home Screen
+![Home Screen](https://github.com/Muhammad-Umair-Gujjar/flutter_qr_genScan/blob/master/home_Qr.jpg?raw=true)
+
+#### 🧾 Generate QR Code Screen
+![Generate QR](https://github.com/Muhammad-Umair-Gujjar/flutter_qr_genScan/blob/master/genrate_qr.jpg?raw=true)
+
+---
+
+## 🛠️ Tech Stack
+
+- **Flutter** & **Dart**
+- **Provider** (State Management)
+- **qr_flutter** for QR code generation  
+- **mobile_scanner** for QR code scanning
+
+---
